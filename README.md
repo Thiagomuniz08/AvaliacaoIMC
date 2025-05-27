@@ -22,3 +22,10 @@ flutter run
 ![IMC](IMC.png)
 
 ## Repositórios 
+https://github.com/Thiagomuniz08/myapp-Bitola
+
+https://github.com/Thiagomuniz08/App-Login
+
+https://github.com/Thiagomuniz08/Financiamento
+
+https://github.com/Thiagomuniz08/Investimentos
